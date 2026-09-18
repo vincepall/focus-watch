@@ -14,7 +14,7 @@ Een speciaal ontworpen **Wear OS** applicatie voor de **Google Pixel Watch 3** (
 
 ## 🚀 Direct Downloaden & Installeren
 
-👉 **[Download kant-en-klare APK (dist/focusverandering-wear.apk)](dist/focusverandering-wear.apk)** *(~530 KB)*
+👉 **[⬇️ Download Kant-en-Klare APK (v1.0.0)](https://github.com/vincepall/focus-watch/releases/latest/download/focusverandering-wear.apk)** *(Directe download ~530 KB of vind hem in [Releases](https://github.com/vincepall/focus-watch/releases))*
 
 Je hoeft niets te compileren! Kies hieronder hoe je de app wilt installeren:
 
