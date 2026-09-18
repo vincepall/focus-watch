@@ -1,0 +1,25 @@
+# Android SDK & Platform Tools (binary dependencies - install via system or sdkmanager)
+tools/android-sdk/
+tools/platform-tools/
+tools/adb
+
+# Build artifacts
+android/build/
+.gradle/
+build/
+local.properties
+*.idsig
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
